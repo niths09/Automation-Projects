@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-29T17:46:34 IST" name="Default suite" finished-at="2024-09-29T17:50:50 IST" duration-ms="255283">
+    <groups>
+    </groups>
+    <test started-at="2024-09-29T17:46:34 IST" name="Default test" finished-at="2024-09-29T17:50:50 IST" duration-ms="255283">
+      <class name="github_project.QafoxPage">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:46:34 IST" name="beforeMethod" finished-at="2024-09-29T17:46:43 IST" duration-ms="8865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="accountMethod()[pri:0, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:46:43 IST" name="accountMethod" finished-at="2024-09-29T17:47:01 IST" duration-ms="17736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountMethod -->
+        <test-method signature="addressMethod()[pri:1, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:47:01 IST" name="addressMethod" finished-at="2024-09-29T17:47:32 IST" duration-ms="30849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addressMethod -->
+        <test-method signature="searchMethod()[pri:2, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:47:32 IST" name="searchMethod" finished-at="2024-09-29T17:47:39 IST" duration-ms="6837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMethod -->
+        <test-method signature="productpageoneMethod()[pri:3, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:47:39 IST" name="productpageoneMethod" finished-at="2024-09-29T17:48:15 IST" duration-ms="36122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productpageoneMethod -->
+        <test-method signature="headerMethod()[pri:4, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:48:15 IST" name="headerMethod" finished-at="2024-09-29T17:48:22 IST" duration-ms="6762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerMethod -->
+        <test-method signature="productpagetwoMethod()[pri:5, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:48:22 IST" name="productpagetwoMethod" finished-at="2024-09-29T17:48:32 IST" duration-ms="10709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productpagetwoMethod -->
+        <test-method signature="productpagethreeMethod()[pri:6, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:48:32 IST" name="productpagethreeMethod" finished-at="2024-09-29T17:48:54 IST" duration-ms="21767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productpagethreeMethod -->
+        <test-method signature="wishlistMethod()[pri:7, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:48:54 IST" name="wishlistMethod" finished-at="2024-09-29T17:49:23 IST" duration-ms="29246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlistMethod -->
+        <test-method signature="comparisonMethod()[pri:8, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:49:23 IST" name="comparisonMethod" finished-at="2024-09-29T17:49:55 IST" duration-ms="31081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparisonMethod -->
+        <test-method signature="addtocartMethod()[pri:9, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:49:55 IST" name="addtocartMethod" finished-at="2024-09-29T17:50:24 IST" duration-ms="29903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartMethod -->
+        <test-method signature="checkoutMethod()[pri:10, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:50:24 IST" name="checkoutMethod" finished-at="2024-09-29T17:50:50 IST" duration-ms="25096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:github_project.QafoxPage@5386659f]" started-at="2024-09-29T17:50:50 IST" name="afterMethod" finished-at="2024-09-29T17:50:50 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- github_project.QafoxPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
