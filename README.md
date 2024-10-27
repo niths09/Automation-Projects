@@ -1,5 +1,5 @@
 
-# SwagLabs Automation Project
+# Swag Labs Automation Project
 
 This project is an automated test suite for the SwagLabs demo site using Selenium WebDriver, TestNG, and Maven. The test suite covers various user interactions on the website, including login, social media link validation, product sorting, cart operations, and checkout.
 
