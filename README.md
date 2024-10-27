@@ -47,7 +47,7 @@ To run this project, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/CURA-Healthcare-Service.git
+   git clone https://github.com/niths09/Automation-Projects.git
    ```
 
 2. Open the project in your preferred IDE and update the **ChromeDriver** path if necessary.
