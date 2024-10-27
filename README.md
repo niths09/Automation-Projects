@@ -52,4 +52,4 @@ Here is a summary of the main test cases covered:
    ```
 2. Open the project in your preferred IDE and update the ChromeDriver path if necessary.
 
-3. To execute the test suite, run the CuraHealthcare_Page class using TestNG.
+3. To execute the test suite, run the SwagLabsPage class using TestNG.
